@@ -653,7 +653,9 @@ a {
     font-weight: 400;
     color: #0A0505!important;
 }
-
+.imgremove {
+    font-size: 1.6em;
+}
 .container {
     max-width: 1000px;
 }
