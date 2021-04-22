@@ -655,6 +655,10 @@ a {
 }
 .imgremove {
     font-size: 1.6em;
+    color: #0A0505;
+}
+.imgremovetxt {
+    color: #0A0505;
 }
 .container {
     max-width: 1000px;
